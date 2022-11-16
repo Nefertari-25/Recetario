@@ -1,0 +1,191 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-family: arial;
+}
+
+h3{
+    margin-top: 20px;
+}
+
+#categorias{
+    width: 20%;
+    height: 100%;
+    float: left;
+    
+   
+}
+
+    #catego{
+        
+        width: 80%;
+        height: 95%;
+        margin: auto;
+        background-color: #FCB7AF;
+        margin-top: 5%;
+    }
+
+        .select-categorias{
+            width: 100%;
+            height: 12.5%;
+            float: left;
+            text-align: center;
+        }
+
+header{
+   
+    width: 80%;
+    height: 10vh;
+    float: left;
+    margin-top: 20px;
+    
+}
+
+    #barra-grande{
+        width: 87%;
+        height: 100%;
+        float: left;
+        background-color: white;
+        border: 0.2px solid black;
+
+    }
+
+    #logo{
+        width: 20%;
+        height: 100%;
+        float: left;        
+        text-align: center;
+        
+    }
+
+        #img-logo{
+            margin-top: 6%;
+            width: 80%;
+            height: 70%;
+            object-fit: contain;
+        }
+
+    #barra{
+        width: 70%;
+        height: 100%;
+        float: left;
+        
+        text-align: center;
+    }
+
+        #barra-bu{
+            margin-top: 2%;
+            width: 90%;
+            height: 60%;
+        }
+
+    #bus{
+        width: 10%;
+        height: 100%;
+        float: left;
+        
+        text-align: center;       
+    }
+
+        #boton-bus{
+            width: 70%;
+            height: 50%;
+            margin-top: 15%;
+            border-radius: 15px;
+            background-color: black;
+            color: white;
+        }
+
+    #usuario{
+        width: 10%;
+        height: 100%;
+        float: left;        
+        text-align: center;
+    } 
+
+    #user-img{
+        width: 50px;
+        height: auto;
+        border-radius: 50%;
+        margin-top: 13px;                  
+    }
+
+    main{
+        width: 80%;
+        height: 90vh;
+        float: left;
+        
+    }
+
+        #comidas{
+            width: 92%;
+            height: 88%;
+            float: left;            
+            background-color: #DBDCE6;
+            margin: auto;
+            margin-top: 30px;
+            border-radius: 30px;
+        }
+
+        #comida-1{
+            width: 33.333333333%;
+            height: 50%;
+            float: left;
+            text-align: center;            
+            
+        }
+        #comida-2{
+            width: 33.333333333%;
+            height: 50%;
+            float: left;
+            text-align: center; 
+           
+        }
+        #comida-3{
+            width: 33.333333333%;
+            height: 50%;
+            float: left;
+            text-align: center;       
+            
+        }
+        #comida-4{
+            width: 33.333333333%;
+            height: 50%;
+            float: left;
+            text-align: center;  
+         
+        }
+        #comida-5{
+            width: 33.333333333%;
+            height: 50%;
+            float: left;
+            text-align: center;  
+            
+        }
+        #comida-6{
+            width: 33.333333333%;
+            height: 50%;
+            float: left;
+            text-align: center;  
+          
+        }
+
+        .fotos-comida{
+            width: 70%;
+            height: 60%;
+            border-radius: 20px;
+            margin-top: 30px;
+
+        } 
+
+       

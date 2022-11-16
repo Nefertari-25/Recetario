@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0%;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    background-color: #F4EBFF;
+}
+
+header{
+    width: 85%;
+    height: 10vh;
+    background-color: #FFFFFF;
+    float: right;
+}
+
+.categoria{
+    width: 20%;
+    height: 104vh;
+    background-color: #FCB7AF;
+    float: left;
+    margin-bottom: 5%;
+    position: fixed;
+}
+main{
+    width: 85%;
+    height: max-content;
+    min-height: 90vh;
+    float: right;
+    background-color: bisque;
+}
+
+.info{
+    width: 80%;
+    min-height: 30vh;
+    background-color: tomato;
+    margin-bottom: 5%;
+    margin-left: 130px;
+    margin-top: 80px;
+    float: top 20%;
+    float: left 33%;
+    border-radius: 15px;
+
+    
+}
+
+.proce{
+    width: 80%;
+    min-height: 35vh;
+    background-color: blueviolet;
+    margin-bottom: 5%;
+    margin-left: 130px;
+    margin-top: 80px;
+    float: top 60%;
+    float: left 33%;
+    border-radius: 15px;
+}
